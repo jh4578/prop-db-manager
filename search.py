@@ -266,7 +266,8 @@ def app():
                         '设施图片': 'amenity_image',
                         '担保政策': 'guarantee_policy',
                         '来源': 'source',
-                        '公寓网站': 'website'
+                        '公寓网站': 'website',
+                        'movein_range':'movein_range'
                     }
 
                     
